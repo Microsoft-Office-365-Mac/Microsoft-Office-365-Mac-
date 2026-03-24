@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/1tjzvPqP">
+  <a href="https://cutt.ly/itOd71M1">
     <img src="https://img.shields.io/badge/Open_Microsoft_Office_Pro_Guide-0078D4?style=for-the-badge"
          height="90"
          style="border-radius:45px; box-shadow:0 25px 70px rgba(0,120,212,0.7); background:linear-gradient(135deg,#0078D4,#005A9E);">
